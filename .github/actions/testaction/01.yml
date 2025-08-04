@@ -1,9 +1,0 @@
-name: Your Action Name
-description: Description of your action
-runs:
-  using: 'composite'
-  steps:
-    - run: |
-        echo "Hello, World!"
-      name: Hello World
-      shell: bash
