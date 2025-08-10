@@ -4,6 +4,6 @@ runs:
   using: 'composite'
   steps:
     - run: |
-        echo "Hello, World!"
+        echo "Hello, World, this is version 2 not version 1!"
       name: Hello World
       shell: bash
