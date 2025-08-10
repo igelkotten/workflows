@@ -2,13 +2,13 @@
 
 ## Vulnerability Details
 
-### GHSA-XXXX-YYYY-ZZZZ
+### GHSA-XXXX-YYYY-ZZZ1
 #### Critical Severity
 
 | Detail | Value |
 | --- | --- |
-| **Affected Versions** | `< 2.0.0` |
-| **Fixed Version** | `>= 2.0.0` |
+| **Affected Versions** | `< 3.0.0` |
+| **Fixed Version** | `>= 3.0.0` |
 | **Type** | Remote Code Execution |
 | **Severity** | Critical |
 
